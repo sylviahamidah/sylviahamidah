@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sylviahamidah
-- 👀 I’m interested in machine learning and UI/UX design.
-- 🌱 I’m currently learning mathematical modelling for biomedical engineer.
-- 📫 You can reach me through my email sylviahamidah16@gmail.com
+- 👋 Hi, I’m Sylvia Hamidah, biomedical engineering student at Institut Teknologi Sepuluh Nopember.
+- 👀 I’m interested in machine learning, data science, image processing and computer vision.
+- 🌱 I’m currently learning python for biomodelling and machine learning.
+- 📫 You can reach me through my Linkedin https://www.linkedin.com/in/sylvia-hamidah/
 
 <!---
 sylviahamidah/sylviahamidah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
